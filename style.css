@@ -1,0 +1,49 @@
+*{
+    background-color:white
+}
+.all{
+    display: flex;
+}
+
+.heading{
+    font-size: 18px;
+    text-align: center;
+}
+
+.subtitle{
+    text-align: center;
+}
+
+.First{
+    height: 550px;
+    width: 500px;
+    color: green;
+    font-size: 14px;
+    line-height: 3;
+     margin: 20px 0;
+     padding: 20px;
+    border: 10px dotted ;
+}
+
+.Second{
+    height:550px;
+    width: 500px;
+   color: red;
+   font-size: 14px;
+   line-height: 3;
+   border: 20px dotted;
+   margin: 20px 0;
+   padding: 20px;
+
+}
+.Third{
+    height:550px;
+    width: 500px;
+    line-height: 3;
+    color: blue; 
+    border: 15px dotted; 
+    font-size: 14px;
+    margin: 20px 0;
+    padding: 20px;
+    ;
+}
